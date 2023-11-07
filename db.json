@@ -78,6 +78,12 @@
       "email": "joko@gmail.com",
       "password": "joko12345",
       "id": 5
+    },
+    {
+      "fullname": "bambang",
+      "email": "bambang@gmail.com",
+      "password": "bambang12345",
+      "id": 6
     }
   ]
 }
